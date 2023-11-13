@@ -1,0 +1,145 @@
+{
+    "courses": [
+        {
+            "id": 1,
+            "nombre": "Desarrollo Web",
+            "precio": "$199.99",
+            "cantidad": 1,
+            "imagen": "id1.jpg"
+        },
+        {
+            "id": 2,
+            "nombre": "Introducción a la Inteligencia Artificial",
+            "precio": "$149.99",
+            "cantidad": 1,
+            "imagen": "id2.jpg"
+        },
+        {
+            "id": 3,
+            "nombre": "Diseño Gráfico Profesional",
+            "precio": "$129.99",
+            "cantidad": 1,
+            "imagen": "id3.jpg"
+        },
+        {
+            "id": 4,
+            "nombre": "Programación en Python",
+            "precio": "$179.99",
+            "cantidad": 1,
+            "imagen": "id4.jpg"
+        },
+        {
+            "id": 5,
+            "nombre": "Marketing Digital",
+            "precio": "$159.99",
+            "cantidad": 1,
+            "imagen": "id5.jpg"
+        },
+        {
+            "id": 6,
+            "nombre": "Inglés para Negocios",
+            "precio": "$119.99",
+            "cantidad": 1,
+            "imagen": "id6.jpg"
+        },
+        {
+            "id": 7,
+            "nombre": "Cocina Italiana",
+            "precio": "$99.99",
+            "cantidad": 1,
+            "imagen": "id7.jpg"
+        },
+        {
+            "id": 8,
+            "nombre": "Fotografía Digital Profesional",
+            "precio": "$149.99",
+            "cantidad": 1,
+            "imagen": "id8.jpg"
+        },
+        {
+            "id": 9,
+            "nombre": "Desarrollo de Aplicaciones Móviles",
+            "precio": "$199.99",
+            "cantidad": 1,
+            "imagen": "id9.jpg"
+        },
+        {
+            "id": 10,
+            "nombre": "Finanzas Personales",
+            "precio": "$89.99",
+            "cantidad": 1,
+            "imagen": "id10.jpg"
+        },
+        {
+            "id": 11,
+            "nombre": "Ciencia de Datos con R",
+            "precio": "$169.99",
+            "cantidad": 1,
+            "imagen": "id11.jpg"
+        },
+        {
+            "id": 12,
+            "nombre": "Diseño Creativo de Interiores",
+            "precio": "$139.99",
+            "cantidad": 1,
+            "imagen": "id12.jpg"
+        },
+        {
+            "id": 13,
+            "nombre": "Gestión de Proyectos Ágiles",
+            "precio": "$159.99",
+            "cantidad": 1,
+            "imagen": "id13.webp"
+        },
+        {
+            "id": 14,
+            "nombre": "Producción de Música Electrónica",
+            "precio": "$129.99",
+            "cantidad": 1,
+            "imagen": "id14.jpg"
+        },
+        {
+            "id": 15,
+            "nombre": "Yoga y Meditación Guiada",
+            "precio": "$109.99",
+            "cantidad": 1,
+            "imagen": "id15.jpg"
+        },
+        {
+            "id": 16,
+            "nombre": "Pintura al Óleo",
+            "precio": "$119.99",
+            "cantidad": 1,
+            "imagen": "id16.jpg"
+        },
+        {
+            "id": 17,
+            "nombre": "Psicología Positiva",
+            "precio": "$79.99",
+            "cantidad": 1,
+            "imagen": "id17.jpg"
+        },
+        {
+            "id": 18,
+            "nombre": "Edición de Video Profesional",
+            "precio": "$149.99",
+            "cantidad": 1,
+            "imagen": "id18.webp"
+        },
+        {
+            "id": 19,
+            "nombre": "Historia del Arte Contemporáneo",
+            "precio": "$129.99",
+            "cantidad": 1,
+            "imagen": "id19.jpg"
+        },
+        {
+            "id": 20,
+            "nombre": "Desarrollo Personal y Liderazgo",
+            "precio": "$169.99",
+            "cantidad": 1,
+            "imagen": "id20.jpg"
+        }
+    ]
+    
+}
