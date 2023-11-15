@@ -6,7 +6,8 @@
             "precio": "$199.99",
             "cantidad": 1,
             "imagen": "id1.jpg",
-            "vacantes": 10
+            "vacantes": 10,
+            "vacantesIniciales": 10
         },
         {
             "id": 2,
@@ -14,7 +15,8 @@
             "precio": "$149.99",
             "cantidad": 1,
             "imagen": "id2.jpg",
-            "vacantes": 17
+            "vacantes": 17,
+            "vacantesIniciales": 17
         },
         {
             "id": 3,
@@ -22,7 +24,8 @@
             "precio": "$129.99",
             "cantidad": 1,
             "imagen": "id3.jpg",
-            "vacantes": 1
+            "vacantes": 1,
+            "vacantesIniciales": 1
         },
         {
             "id": 4,
@@ -30,7 +33,8 @@
             "precio": "$179.99",
             "cantidad": 1,
             "imagen": "id4.jpg",
-            "vacantes": 3
+            "vacantes": 3,
+            "vacantesIniciales": 3
         },
         {
             "id": 5,
@@ -38,7 +42,8 @@
             "precio": "$159.99",
             "cantidad": 1,
             "imagen": "id5.jpg",
-            "vacantes": 25
+            "vacantes": 25,
+            "vacantesIniciales": 25
         },
         {
             "id": 6,
@@ -46,7 +51,8 @@
             "precio": "$119.99",
             "cantidad": 1,
             "imagen": "id6.jpg",
-            "vacantes": 14
+            "vacantes": 14,
+            "vacantesIniciales": 14
         },
         {
             "id": 7,
@@ -54,7 +60,8 @@
             "precio": "$99.99",
             "cantidad": 1,
             "imagen": "id7.jpg",
-            "vacantes": 6
+            "vacantes": 6,
+            "vacantesIniciales": 6
         },
         {
             "id": 8,
@@ -62,7 +69,8 @@
             "precio": "$149.99",
             "cantidad": 1,
             "imagen": "id8.jpg",
-            "vacantes": 1
+            "vacantes": 1,
+            "vacantesIniciales": 1
         },
         {
             "id": 9,
@@ -70,7 +78,8 @@
             "precio": "$199.99",
             "cantidad": 1,
             "imagen": "id9.jpg",
-            "vacantes": 9
+            "vacantes": 9,
+            "vacantesIniciales": 9
         },
         {
             "id": 10,
@@ -78,7 +87,8 @@
             "precio": "$89.99",
             "cantidad": 1,
             "imagen": "id10.jpg",
-            "vacantes": 12
+            "vacantes": 12,
+            "vacantesIniciales": 12
         },
         {
             "id": 11,
@@ -86,7 +96,8 @@
             "precio": "$169.99",
             "cantidad": 1,
             "imagen": "id11.jpg",
-            "vacantes": 18
+            "vacantes": 18,
+            "vacantesIniciales": 18
         },
         {
             "id": 12,
@@ -94,7 +105,8 @@
             "precio": "$139.99",
             "cantidad": 1,
             "imagen": "id12.jpg",
-            "vacantes": 22
+            "vacantes": 22,
+            "vacantesIniciales": 22
         },
         {
             "id": 13,
@@ -102,7 +114,8 @@
             "precio": "$159.99",
             "cantidad": 1,
             "imagen": "id13.webp",
-            "vacantes": 4
+            "vacantes": 4,
+            "vacantesIniciales": 4
         },
         {
             "id": 14,
@@ -110,7 +123,8 @@
             "precio": "$129.99",
             "cantidad": 1,
             "imagen": "id14.jpg",
-            "vacantes": 12
+            "vacantes": 12,
+            "vacantesIniciales": 12
         },
         {
             "id": 15,
@@ -118,7 +132,8 @@
             "precio": "$109.99",
             "cantidad": 1,
             "imagen": "id15.jpg",
-            "vacantes": 12
+            "vacantes": 12,
+            "vacantesIniciales": 12
         },
         {
             "id": 16,
@@ -126,7 +141,8 @@
             "precio": "$119.99",
             "cantidad": 1,
             "imagen": "id16.jpg",
-            "vacantes": 1
+            "vacantes": 1,
+            "vacantesIniciales": 1
         },
         {
             "id": 17,
@@ -134,7 +150,8 @@
             "precio": "$79.99",
             "cantidad": 1,
             "imagen": "id17.jpg",
-            "vacantes": 17
+            "vacantes": 17,
+            "vacantesIniciales": 17
         },
         {
             "id": 18,
@@ -142,7 +159,8 @@
             "precio": "$149.99",
             "cantidad": 1,
             "imagen": "id18.webp",
-            "vacantes": 4
+            "vacantes": 4,
+            "vacantesIniciales": 4
         },
         {
             "id": 19,
@@ -150,7 +168,8 @@
             "precio": "$129.99",
             "cantidad": 1,
             "imagen": "id19.jpg",
-            "vacantes": 31
+            "vacantes": 31,
+            "vacantesIniciales": 31
         },
         {
             "id": 20,
@@ -158,7 +177,8 @@
             "precio": "$169.99",
             "cantidad": 1,
             "imagen": "id20.jpg",
-            "vacantes": 12
+            "vacantes": 12,
+            "vacantesIniciales": 12
         }
     ]
     
